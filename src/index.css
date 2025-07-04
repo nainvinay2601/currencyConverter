@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body {
+  background-color: #0e402d;
+  background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+}
